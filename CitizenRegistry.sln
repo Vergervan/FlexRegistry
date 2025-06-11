@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitizenRegistry", "CitizenRegistry\CitizenRegistry.csproj", "{5240EC44-B887-4276-98A0-ADE62DAABA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5240EC44-B887-4276-98A0-ADE62DAABA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5240EC44-B887-4276-98A0-ADE62DAABA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5240EC44-B887-4276-98A0-ADE62DAABA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5240EC44-B887-4276-98A0-ADE62DAABA29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FC9B66-7EC8-4934-A5F1-BB7E13048659}
+	EndGlobalSection
+EndGlobal
