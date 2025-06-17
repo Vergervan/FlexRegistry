@@ -192,7 +192,7 @@
 
                 <!-- Блок записей -->
                 <GroupBox Visibility="{Binding IsRecordsVisible}" Header="Записи" Grid.Row="2" Margin="5">
-                    <ListView Height="Auto" ItemsSource="{Binding Records}" HorizontalContentAlignment="Stretch" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="False">
+                    <ListView Height="Auto" ItemsSource="{Binding Records}" HorizontalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="False">
                         <ListView.ItemTemplate>
                             <DataTemplate>
                                 <Border Padding="5" Margin="2" BorderThickness="1" BorderBrush="Black">
